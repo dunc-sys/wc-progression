@@ -1,0 +1,194 @@
+{
+"Spain": {
+"group_rate": 2.5,
+"ko_rate": 1.7
+},
+"France": {
+"group_rate": 2.3,
+"ko_rate": 1.6
+},
+"England": {
+"group_rate": 2.1,
+"ko_rate": 1.45
+},
+"Brazil": {
+"group_rate": 2.1,
+"ko_rate": 1.4
+},
+"Portugal": {
+"group_rate": 2.2,
+"ko_rate": 1.35
+},
+"Argentina": {
+"group_rate": 2.0,
+"ko_rate": 1.4
+},
+"Germany": {
+"group_rate": 2.1,
+"ko_rate": 1.3
+},
+"Netherlands": {
+"group_rate": 1.9,
+"ko_rate": 1.25
+},
+"Belgium": {
+"group_rate": 1.8,
+"ko_rate": 1.1
+},
+"Croatia": {
+"group_rate": 1.5,
+"ko_rate": 1.05
+},
+"Uruguay": {
+"group_rate": 1.45,
+"ko_rate": 1.05
+},
+"Colombia": {
+"group_rate": 1.55,
+"ko_rate": 1.05
+},
+"Morocco": {
+"group_rate": 1.3,
+"ko_rate": 0.95
+},
+"USA": {
+"group_rate": 1.55,
+"ko_rate": 1.0
+},
+"Japan": {
+"group_rate": 1.4,
+"ko_rate": 0.95
+},
+"Switzerland": {
+"group_rate": 1.45,
+"ko_rate": 0.95
+},
+"Norway": {
+"group_rate": 1.75,
+"ko_rate": 1.05
+},
+"Mexico": {
+"group_rate": 1.4,
+"ko_rate": 0.9
+},
+"Turkey": {
+"group_rate": 1.3,
+"ko_rate": 0.9
+},
+"Austria": {
+"group_rate": 1.25,
+"ko_rate": 0.85
+},
+"Canada": {
+"group_rate": 1.3,
+"ko_rate": 0.85
+},
+"Senegal": {
+"group_rate": 1.15,
+"ko_rate": 0.85
+},
+"South Korea": {
+"group_rate": 1.1,
+"ko_rate": 0.8
+},
+"Ecuador": {
+"group_rate": 1.05,
+"ko_rate": 0.8
+},
+"Sweden": {
+"group_rate": 1.0,
+"ko_rate": 0.8
+},
+"Czech Republic": {
+"group_rate": 1.15,
+"ko_rate": 0.8
+},
+"Ivory Coast": {
+"group_rate": 1.0,
+"ko_rate": 0.75
+},
+"Egypt": {
+"group_rate": 0.9,
+"ko_rate": 0.7
+},
+"Scotland": {
+"group_rate": 0.95,
+"ko_rate": 0.7
+},
+"Algeria": {
+"group_rate": 1.0,
+"ko_rate": 0.75
+},
+"Ghana": {
+"group_rate": 0.95,
+"ko_rate": 0.7
+},
+"Iran": {
+"group_rate": 0.8,
+"ko_rate": 0.65
+},
+"Paraguay": {
+"group_rate": 0.85,
+"ko_rate": 0.65
+},
+"Tunisia": {
+"group_rate": 0.75,
+"ko_rate": 0.6
+},
+"Saudi Arabia": {
+"group_rate": 0.7,
+"ko_rate": 0.6
+},
+"Qatar": {
+"group_rate": 0.6,
+"ko_rate": 0.55
+},
+"Panama": {
+"group_rate": 0.6,
+"ko_rate": 0.55
+},
+"New Zealand": {
+"group_rate": 0.55,
+"ko_rate": 0.55
+},
+"Haiti": {
+"group_rate": 0.5,
+"ko_rate": 0.5
+},
+"South Africa": {
+"group_rate": 0.85,
+"ko_rate": 0.65
+},
+"Bosnia & Herzegovina": {
+"group_rate": 0.95,
+"ko_rate": 0.7
+},
+"Australia": {
+"group_rate": 0.9,
+"ko_rate": 0.7
+},
+"Uzbekistan": {
+"group_rate": 0.65,
+"ko_rate": 0.55
+},
+"DR Congo": {
+"group_rate": 0.6,
+"ko_rate": 0.55
+},
+"Jordan": {
+"group_rate": 0.5,
+"ko_rate": 0.5
+},
+"Cape Verde": {
+"group_rate": 0.5,
+"ko_rate": 0.5
+},
+"Iraq": {
+"group_rate": 0.45,
+"ko_rate": 0.5
+},
+"Curaçao": {
+"group_rate": 0.4,
+"ko_rate": 0.45
+}
+}
